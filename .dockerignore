@@ -16,5 +16,4 @@ docker-compose.yml
 .gitattributes
 README.md
 phpunit.xml
-vite.config.js
 # package.json and composer.json must NOT be ignored as they are needed for the build
