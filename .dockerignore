@@ -17,7 +17,4 @@ docker-compose.yml
 README.md
 phpunit.xml
 vite.config.js
-package-lock.json
-package.json
-composer.lock
-composer.json
+# package.json and composer.json must NOT be ignored as they are needed for the build
